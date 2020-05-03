@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.background{
+	 
+	  background-image: url('la.jpg');
+	  width: 100%;
+	  height: 100vh;
+}
+.menu{
+	width: 100%;
+	height: 45px;
+	background-color: black;
+}
+ .letfmenu{
+
+ 	width: 45%;
+	line-height: 25px;
+    float: left;
+}
+.menu .letfmenu ul li{
+  
+   display: inline;
+   line-height:40px;
+   text-transform: uppercase;
+   padding-left:30px; 
+   color:white; 
+   list-style: none;
+   font-size: 21px;   
+}
+.band_details{
+
+	height: 100vh;
+	width: 100%;
+}
+
+.band_details h3{
+ 
+  font-size: 30px;
+  text-align: center;
+  padding-top: 60px;
+ 
+}
+.band_details h1{
+
+    text-align: center;
+	font-size:20px;
+	color:grey;
+	padding-top:20px;
+    
+}
+
+.band_details p{
+
+    text-align: center;
+	font-size:20px;
+	padding-top:20px;
+    margin:0px 205px;   
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+ .band_name{
+ 
+  float: left;
+  margin-left:200px;
+  margin-top: 40px;
+  width: 170px;
+  height: 210px;
+  background-color: orange;
+  border: 1px solid blue;
+
+}
